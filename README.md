@@ -1,10 +1,10 @@
-### Hi there 👋
+###
 
 # shanthea.github.io
 
 **`✨Pixels & Passion✨ (Developer/Designer/Creator)`**
 
-Passionate IT Specialist dedicated to delivering excellence in every project. A detail-oriented thinker and quick learner with a strong commitment to teamwork. Eager to contribute expertise and dedication to your team.
+Passionate IT Engineer dedicated to delivering excellence in every project. A detail-oriented thinker and quick learner with a strong commitment to teamwork. Eager to contribute expertise and dedication to your team.
 
 ### Languages and Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
